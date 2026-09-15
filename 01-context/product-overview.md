@@ -13,14 +13,12 @@ Permite a los usuarios buscar, comparar y comprar mascotas/productos de forma on
 Habilita ventas online 24/7, amplía el alcance más allá de una tienda física, reduce fricción en el proceso de compra mediante un catálogo navegable y un carrito, y retiene clientes mediante cuentas registradas (historial de pedidos, datos guardados).
 
 ## Usuarios principales
-
--Cliente no registrado (navega catálogo, puede armar carrito antes de loguearse)
--Cliente registrado (compra, consulta historial de pedidos, gestiona su cuenta)
+- Cliente no registrado (navega catálogo, puede armar carrito antes de loguearse)
+- Cliente registrado (compra, consulta historial de pedidos, gestiona su cuenta)
 
 ## Funcionalidades principales
-
--Navegación de catálogo por categorías (búsqueda de productos)
--Registro e inicio de sesión de cuenta
+- Navegación de catálogo por categorías (búsqueda de productos)
+- Registro e inicio de sesión de cuenta
 Carrito de compras (agregar, ver, actualizar cantidades)
--Checkout / confirmación de pedido
+- Checkout / confirmación de pedido
 Consulta de historial/estado de pedidos
